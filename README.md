@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 Hi 👋, I'm Shweta Kamble<br>A passionate Software Engineer || Cloud Engineer from India<br><br>Email Me 👉 ✉️ shwetakamble1723@gmail.com For Collaboration/Project or Anything Else. 😊😊<br><br>🔭 Working on: Backend & full-stack development projects<br>🌱 Learning: .NET Core, Java, SQL, REST APIs & Cloud<br>👯 Collaborate on: Web, API & cloud-based projects<br>🤔 Need help with: System design & scalable backends<br>💬 Ask me about: Tech, cloud & collaboration<br>📫 Reach me: shwetakamble1723@gmail.com<br>😄 Pronouns: Imran Sir<br>⚡ Fun fact: I love tech, and tech loves me 😄
+💫 Hi 👋, I'm Shweta Kamble<br>A passionate Software Engineer || Cloud Engineer from India<br><br>Email Me 👉 ✉️ shwetakamble1723@gmail.com For Collaboration/Project or Anything Else. 😊😊<br><br>🔭 Working on: Backend & full-stack development projects<br>🌱 Learning: .NET Core, Java, SQL, REST APIs & Cloud<br>👯 Collaborate on: Web, API & cloud-based projects<br>🤔 Need help with: System design & scalable backends<br>💬 Ask me about: Tech, cloud & collaboration<br>📫 Reach me: shwetakamble1723@gmail.com<br>😄 Pronouns: Shweta Kamble<br>⚡ Fun fact: I love tech, and tech loves me 😄
 
 
 ## 🌐 Socials:

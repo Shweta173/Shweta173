@@ -1,9 +1,9 @@
 # 💫 About Me:
 💫 Hi 👋, I'm Shweta Kamble<br>A passionate Software Engineer from India<br><br> 🔭 I am an undergraduate Bachelor’s student in Information Technology from India.
 
-🌱 **Currently Learning:**.NET Core, Java, Python, SQL, REST APIs, and Cloud Technologies
+🌱 **Currently Learning:** .NET Core, Java, Python, SQL, REST APIs, and Cloud Technologies
 
-👯👩‍💻 **Technical Interests:**Full-Stack Development, Open Source 💖, System Design, DevOps, Competitive Programming
+👯👩‍💻 **Technical Interests:** Full-Stack Development, Open Source 💖, System Design, DevOps, Competitive Programming
 
 🤝 I enjoy collaborating over code, working with new people, and contributing in team-based environments such as projects and hackathons.
 

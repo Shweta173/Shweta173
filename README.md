@@ -14,7 +14,7 @@ I build web applications with React and JavaScript, and I'm growing into backend
 | Project | What it does | Tech |
 |---|---|---|
 | [Fasal](https://github.com/Shweta173/Fasal--Envisioning-Farms-for-Better-Future) | Smart farming portal for field planning, crop choice and yield estimates using soil, weather and map data | React · TypeScript · Node.js · Express · Mapbox |
-| [Hotel Booking Platform](https://github.com/Shweta173/hotel-booking-platform) | Full-stack hotel booking site with room search, live availability, timed room holds, Stripe checkout, PDF invoices and a role-based admin panel | Laravel · PHP · React · Stripe · REST API |
+| [StayEasy - Smart Hotel Booking Platform](https://github.com/Shweta173/hotel-booking-platform) | Full-stack hotel booking site with room search, live availability, timed room holds, Stripe checkout, PDF invoices and a role-based admin panel | Laravel · PHP · React · Stripe · REST API |
 | [To-Do List App](https://github.com/Shweta173/todo-list-app) | Add, complete and delete tasks, saved automatically in the browser | HTML · CSS · JavaScript |
 | [Calculator App](https://github.com/Shweta173/calculator-app) | Browser calculator with chained operations | HTML · CSS · JavaScript |
 

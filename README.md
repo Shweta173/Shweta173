@@ -13,12 +13,12 @@ I build web applications with React and JavaScript, and I'm growing into backend
 
 | Project | What it does | Tech |
 |---|---|---|
-| [Fasal](https://github.com/Shweta173/Fasal--Envisioning-Farms-for-Better-Future) | Smart farming portal for field planning, crop choice and yield estimates using soil, weather and map data | React · TypeScript · Node.js · Express · Mapbox |
-| [SmartSpend AI](https://github.com/Shweta173/smartspend-ai) | Personal finance platform with ML auto-categorization, anomaly alerts, budgets, goals and an AI money assistant | Python · FastAPI · React · TypeScript · PostgreSQL · scikit-learn · Docker |
-| [StayEasy - Smart Hotel Booking Platform](https://github.com/Shweta173/StayEasy-Smart-Hotel-Booking-Platform) | Full-stack hotel booking site with room search, live availability, timed room holds, Stripe checkout, PDF invoices and a role-based admin panel | Laravel · PHP · React · Stripe · REST API |
-| [Inventory Management System](https://github.com/Shweta173/inventory-management-system) | Track materials by category with opening balances, inward/outward stock entries and live current balances | Laravel · PHP · MySQL · jQuery · DataTables |
-| [AI Travel Planner (Multi-Agent)](https://github.com/Shweta173/multi-agent-travel-planner) | LangGraph agents that fetch flights, search hotels and write a day-by-day itinerary, with a Streamlit UI and PostgreSQL memory | Python · LangGraph · Groq · Streamlit · PostgreSQL |
-| [To-Do List App](https://github.com/Shweta173/todo-list-app) | Add, complete and delete tasks, saved automatically in the browser | HTML · CSS · JavaScript |
+| [Fasal](https://github.com/Shweta173/Fasal--Envisioning-Farms-for-Better-Future) | Smart farming portal for field planning, crop choice and yield estimates using soil, weather and map data | React · JavaScript · TypeScript · Node.js · Express · Mapbox GL · Ant Design · Recharts · Three.js · SCSS |
+| [SmartSpend AI](https://github.com/Shweta173/smartspend-ai) | Personal finance platform with ML auto-categorization, anomaly alerts, budgets, goals and an AI money assistant | Python · FastAPI · SQLAlchemy · React · TypeScript · Tailwind CSS · PostgreSQL · Redis · scikit-learn · Claude API · Docker · GitHub Actions |
+| [StayEasy - Smart Hotel Booking Platform](https://github.com/Shweta173/StayEasy-Smart-Hotel-Booking-Platform) | Full-stack hotel booking site with room search, live availability, timed room holds, Stripe checkout, PDF invoices and a role-based admin panel | PHP · Laravel · Sanctum · React · JavaScript · Stripe · SQLite / MySQL · REST API · DomPDF |
+| [Inventory Management System](https://github.com/Shweta173/inventory-management-system) | Track materials by category with opening balances, inward/outward stock entries and live current balances | PHP · Laravel · MySQL · Blade · Bootstrap 5 · jQuery · DataTables · SweetAlert2 |
+| [AI Travel Planner (Multi-Agent)](https://github.com/Shweta173/multi-agent-travel-planner) | LangGraph agents that fetch flights, search hotels and write a day-by-day itinerary, with a Streamlit UI and PostgreSQL memory | Python · LangGraph · LangChain · Groq LLM · Tavily · Aviationstack API · Streamlit · PostgreSQL |
+| [To-Do List App](https://github.com/Shweta173/todo-list-app) | Add, complete and delete tasks, saved automatically in the browser | HTML · CSS · JavaScript · localStorage |
 | [Calculator App](https://github.com/Shweta173/calculator-app) | Browser calculator with chained operations | HTML · CSS · JavaScript |
 
 ## 💻 Tech stack

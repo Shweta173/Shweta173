@@ -48,3 +48,7 @@ I build web applications with React and JavaScript, and I'm growing into backend
 - **HackerRank:** Java (Basic) (Nov 2026) · [View certificate](https://www.hackerrank.com/certificates/iframe/7f01c4ca13a6)
 - **HackerRank:** Python (Basic) (Nov 2026) · [View certificate](https://www.hackerrank.com/certificates/iframe/5af5470ad84f)
 - **Deloitte Australia (Forage):** Technology Job Simulation (Jun 2025) · [View certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/udmxiyHeqYQLkTPvf_9PBTqmSxAf6zZTseP_zJzFBHLrkq9Dtv2ag_1749645172801_completion_certificate.pdf)
+- **HackerRank:** Software Engineer (Role) (Nov 2026) · [View certificate](https://www.hackerrank.com/certificates/iframe/a6e510d75d82)
+- **HackerRank:** SQL (Advanced) (Nov 2026) · [View certificate](https://www.hackerrank.com/certificates/iframe/1d26f4a610f3)
+- **HackerRank:** Problem Solving (Intermediate) (Nov 2026) · [View certificate](https://www.hackerrank.com/certificates/iframe/058831f82d54)
+- **HackerRank:** React (Basic) (Nov 2026) · [View certificate](https://www.hackerrank.com/certificates/iframe/9c63f40bda27)

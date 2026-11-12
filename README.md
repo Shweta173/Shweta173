@@ -41,3 +41,10 @@ I build web applications with React and JavaScript, and I'm growing into backend
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Shweta173&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shweta173&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+## 🏆 Certifications
+
+- **Google Cloud Skills Boost:** Introduction to Generative AI (Sep 2026) · [View certificate](https://www.skills.google/public_profiles/c07c4254-16e2-420b-a207-c1e769ed96c9)
+- **HackerRank:** Java (Basic) (Nov 2026) · [View certificate](https://www.hackerrank.com/certificates/iframe/7f01c4ca13a6)
+- **HackerRank:** Python (Basic) (Nov 2026) · [View certificate](https://www.hackerrank.com/certificates/iframe/5af5470ad84f)
+- **Deloitte Australia (Forage):** Technology Job Simulation (Jun 2025) · [View certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/udmxiyHeqYQLkTPvf_9PBTqmSxAf6zZTseP_zJzFBHLrkq9Dtv2ag_1749645172801_completion_certificate.pdf)
